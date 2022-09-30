@@ -1,0 +1,10 @@
+body{color:white;
+background-color: darkblue;}
+ul{display: flex;
+justify-content: space-between;
+align-items: center;
+font-family: Arial, Helvetica, sans-serif;}
+img{width: 200px;
+    height: 200px;
+    border-radius: 15%;}
+    .center{text-align: center;}
